@@ -1,4 +1,4 @@
-let a=10;
+let a=1;
 let b=20;
 if(a<b)
 {
